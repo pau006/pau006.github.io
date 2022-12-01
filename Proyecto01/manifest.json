@@ -1,0 +1,17 @@
+{
+  "name": "Funny Tlacuache",
+  "short_name": "FunTlacuache",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation":"portait",
+  "background_color": "#780eb6",
+  "theme_color":"#780eb6",
+  "description": "Desarrollo de videojuego llamado Funny Tlacuache",
+  "scope":"./index.html",
+  "icons":[{
+    "src":"img/logo.jpeg",
+    "sizes":"500x500",
+    "type":"image/png"
+    }
+  ]}
+
